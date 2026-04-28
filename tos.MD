@@ -1,7 +1,3 @@
-Here is the **Web Express Terms of Service** converted into clean, organized Markdown.
-
----
-
 # Web Express Terms of Service
 
 These terms are the binding rules and guidelines for using the University of Colorado Boulder Web Express service. Agreement to these terms is required for access to creating and maintaining websites on the platform.
