@@ -4,7 +4,7 @@ These terms are the binding rules and guidelines for using the University of Col
 
 ## Key Takeaways
 * **Secure, University-Managed Platform:** CU Boulder hosts and maintains Web Express, handling security updates, system monitoring, and emergency backups. Only users with a campus IdentiKey can access site editing tools.
-* **Prohibited Data:** Private or sensitive information (like student records or health data) is strictly prohibited from being collected or posted.
+* **Prohibited Data:** Highly Confidential Data (like student records or health data) is strictly prohibited from being collected or posted.
 * **No Technical Skills Required:** The platform allows the community to create professional sites without coding. Users cannot install custom software or themes to ensure security and brand consistency.
 * **Support and Training:** Strategic Relations and Communications (SRC) provides hosting, setup, documentation, training, and regular feature updates.
 * **Analytics:** Sites can use Google Analytics 4 and Google Tag Manager. Site owners must manage their own accounts and ensure no personal information is collected.
@@ -81,6 +81,7 @@ All websites must be accessible to people with disabilities in compliance with *
 
 ### Private Information
 Sites must **not** contain or collect:
+* [Highly Confidential Data](https://www.cu.edu/data-governance/resources-support/data-classification)
 * FERPA protected data (Student records)
 * HIPAA protected data (Health info)
 * CUI, FCI, or NCAA regulated data
