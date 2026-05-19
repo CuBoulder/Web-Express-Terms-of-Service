@@ -72,7 +72,7 @@ By using Web Express, you agree to comply with:
 > **Important:** No Web Express website may receive, store, transmit, or process credit card information.
 
 ### Accessibility
-All websites must be accessible to people with disabilities in compliance with **Section 504**, the **ADA**, and **Colorado’s Digital Accessibility Law**.
+All websites must be accessible to people with disabilities in compliance with state and federal laws and [CU Boulder Digital Accessibility policy](https://www.colorado.edu/compliance/policies/digital-accessibility). The [Web Express Accessibility webpage](https://webexpress.colorado.edu/category/687-accessibility) provides guidance on making Web Express content accessible. For further assistance, training, resources, and strategic planning please contact the Digital Accessibility Office at [DigitalAccessibility@Colorado.EDU](mailto:DigitalAccessibility@Colorado.EDU) or visit the [DAO website](https://www.colorado.edu/digital-accessibility).
 
 ### Content Responsibility
 * **Subject Matter Expertise:** Do not publish content outside your area of expertise.
